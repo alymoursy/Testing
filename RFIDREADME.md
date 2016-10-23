@@ -3,3 +3,5 @@ and push the changes would like everyone to be familiar with this
 
 eg. Reneal Rogers 
    renren@outlook.com
+So I deciced to edit the  README myself by using another email. 
+Still experimenting with this github stuff.
