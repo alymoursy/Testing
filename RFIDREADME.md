@@ -3,3 +3,5 @@ and push the changes would like everyone to be familiar with this
 
 eg. Reneal Rogers 
    renren@outlook.com
+   Douglas Osei - douglasyosei@gmail.com
+   
