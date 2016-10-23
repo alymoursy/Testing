@@ -5,3 +5,5 @@ eg. Reneal Rogers
    renren@outlook.com
 So I deciced to edit the  README myself by using another email. 
 Still experimenting with this github stuff.
+
+BRAVO!!!!!!!!!!! going to commit this and see whats next hmmm.
